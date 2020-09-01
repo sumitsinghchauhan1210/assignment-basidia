@@ -1,0 +1,10 @@
+{
+    "DATABASE_NAME": "assesment",
+    "DATABASE_USERNAME": "sumit",
+    "DATABASE_PASSWORD": "sumit",
+    "DATABASE_HOST": "localhost",
+    "JWT_SECRET": "It's a secret you can't guess",
+    "JWT_LIFE": "86400000",
+    "REFRESH_JWT_SECRET": "It's a secret even I can't guess",
+    "REFRESH_JWT_LIFE": "31540000000"
+}

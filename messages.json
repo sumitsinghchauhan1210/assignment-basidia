@@ -1,0 +1,26 @@
+{
+    "success":"operation successfull",
+    "failure":"operation failed",
+    "error_message":"Error occured while performing operation.",
+    "no_data":"Could not find data.",
+    "id_not_valid":"Id passed as parameter is not valid for the current resource.",
+    "no_update":"No changes for updating resource.",
+    "signin_success":"User signed in successfully.",
+    "signout_success":"User signed out successfully.",
+    "signin_failure":"User sign in failed.",
+    "no_user":"There is no user with the provided information.",
+    "signin_error":"Password is incorrect for the provided user.",
+    "unauth_access":"Unautherized access. Token expired or is not valid.",
+    "access_token_refreshed":"Access token refreshed successfully",
+    "password_reset":"Password Reset Successfully",
+    "request_send_successfully":"Request sent to the requested user successfully",
+    "incorrect_user_id":"User Id passed is not correct.",
+    "invalid_request":"Request Id passed is not correct",
+    "invalid_user_request":"Friend Request does not belong to the user",
+    "accepted_success":"Friend Request accepted successfully",
+    "rejected_success":"Friend Request rejected successfully",
+    "removed_success":"Friend Removed Successfully",
+    "remove_fail":"Failed To remove friend",
+    "no_friend":"Specified Friend Id is not friend with the user"    
+
+}
